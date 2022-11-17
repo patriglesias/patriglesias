@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @patriglesias
-- 👀 I’m interested in Computation and Physics
+- 👀 I’m interested in Astrophysics
 - 🌱 I’m currently learning Machine Learning and Data Analysis
-- 💞️ I’m looking to collaborate on any computational project
 - 📫 Reach me in patriglesiasnavarro@gmail.com
 
 <!---
