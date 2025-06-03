@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patriglesias
 - 👀 I’m interested in galaxy formation and evolution
-- 🌱 I’m currently learning machine Learning and data analysis
+- 🌱 I’m currently learning machine learning and data analysis
 - 📫 Reach me in patriglesiasnavarro@gmail.com
 
 <!---
